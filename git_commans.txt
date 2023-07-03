@@ -1,0 +1,11 @@
+1. Describe que hacen los siguientes comandos de git, escribe su descripcion al frente en una sola linea.
+2. git status: Este comando se usa para obtener el estado actual del repositorio 
+3. git clone: Descarga un repositorio externo de la nube
+4. git pull: Es una combinación de los comandos git fetch y git merge , donde Git descargará desde el repositorio remoto especificado y a continuación, de forma inmediata intentará combinarlo en la rama en la que te encuentres.
+5. git checkout:
+6. git log:
+7. git branch:
+8. git add:
+9. git commit:
+10. git push:
+11. git merge:
